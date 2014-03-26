@@ -1,0 +1,17 @@
+.max_size{
+	width: 550px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+
+#first_div{
+	margin-top: 50px;
+}
+
+img{
+	border-radius: 30%;
+	margin: 30px;	
+	border:5px solid;
+	border-color: #ffffff;
+}
